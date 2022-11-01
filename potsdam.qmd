@@ -1,0 +1,304 @@
+---
+title: "Politische Aktivität und Reichtumserhalt"
+author: "Daria Tisch¹ & Lena Radau² <br>  <br> 11. November 2022 <br> <br> ¹Max Planck Institute for the Study of Societies <br> ²Bielefeld University"
+#subtitle:  
+format: 
+  revealjs:
+    theme: [default, custom.scss]
+    preview-links: auto
+    chalkboard: 
+      boardmarker-width: 5
+editor: visual
+slide-number:
+  c
+  #https://quarto.org/docs/publishing/github-pages.html#render-to-docs
+bibliography: references.bib
+---
+
+## Motivation {.larger}
+
+Wie schaffen es Familien, ihre Position an der Spitze der Vermögensverteilung über mehr als ein Jahrhundert zu erhalten?
+
+→ Sozialstrukturelle Mechanismen der Perpetuierung von großen Vermögen
+
+-   Strategische Allianzen und Machtelite: Verbindungen in Politik
+-   Soziale Schließung: z.B. durch Heiratsstrategien
+
+So what?
+
+-   normativ: Leistung und nicht Geburt sollen Vermögensposition beeinflussen (Beckert 2008)
+-   funktional: Ökonomische Ressourcen ineffizient verteilt (Beckert 2022)
+
+## Forschungsfragen
+
+1.  Inwiefern trägt politische Aktivität dazu bei, Reichtum über mehrere Generationen zu erhalten?
+2.  Inwiefern hängen Höhe des Vermögens, Zugehörigkeit zum Adel sowie der Sektor damit zusammen, ein politisches Amt am Anfang des 20. Jahrhunderts innezuhaben?
+
+## Hypothesen: Politische Amtsträger
+
+**Hypothese 1**: Je reicher ein Individuum desto größer die Wahrscheinlichkeit, ein politisches Amt inne zu haben.
+
+-   Finanzielle Sicherheit essenntiell für parlamentarische Karriere (Berghoff 1995)
+
+-   Preußen begünstigt Interessen der Reichen überproportional (Berghoff 1995; Ullmann 2009)
+
+**Hypothese 2**: Adelige Reiche haben größere Wahrscheinlichkeit ein politisches Amt inne zu haben als nicht adelige Reiche.
+
+-   Gesellschaftliche Leitfunktion des Adels im wilhelminischen Deutschland (Augustine 2003; Berghoff 1995)
+-   Preußischen Herrenhauses: Ernennung durch König oder Erbe des Sitzes
+-   Preußisches Abgeordnetenhauses: Dreiklassenwahlrecht
+
+::: notes
+-   Beispiel 1908: 4 % der Wähler der ersten Klasse bestimmen genauso viele Wahlmänner wie 85 % der Wähler der dritten Klasse
+
+-   Einteilung der Wähler nach ihrem Anteil am Steueraufkommen in drei Klassen, jede Klasse wählt jedoch die gleiche Anzahl an Wahlmännern
+
+-   Keine geheime Wahl: Abhängigkeitsverhältnisse konnten stark ausgenutzt werden
+
+-   Adel dominiert Politik, Bürokratie und Militär
+:::
+
+## Hypothesen: Vermögenserhalt
+
+**Hypothese 3**: Adelige Reichen haben eine geringere Wahrscheinlichkeit, ihr Vermögen über mehr als ein Jahrhundert zu erhalten als nicht adelige Reiche.
+
+-   Adel im Kaiserreich gesellschaftliche Elite mit Sonderrechten und einer hohen sozialen Schließung zur Abgrenzung von der Wirtschaftselite und dem Bürgertum (Augustine 2003; Berghoff 2008)
+
+-   Unternehmerische Tätigkeiten galten als nicht standesgemäß, Ablehnung des kapitalistischen Wirtschaftens (Augustine 2003; Berghoff 2008)
+
+::: notes
+die Theorie sagt, der Adel hat es verpasst, sich als Wirtschaftselite zu etablieren, weil kapitalistisches Unternehmertum als nicht standesgemäß galt und zu sehr an den alten Werten und Tugenden festgehalten wurde. Nur einige wenige Adelige finden sich unter den Unternehmern.
+:::
+
+## Hypothesen: Vermögenserhalt 2
+
+**Hypothese 4**: Reiche Menschen mit (Familienmitgliedern mit) politischem Amt haben eine größere Wahrscheinlichkeit, ihr Vermögen über mehr als ein Jahrhundert zu erhalten als Reiche, die keine politischen Amtsträger waren.
+
+-   Strategische Allianzen zur Festigung der sozialen Position (Augustine 1994, Farrell 1993)
+
+-   Kern der Machtelite (Politik und Vermögen)
+
+-   Mechanismen sozialer Schließung: Rekrutierung in Wirtschaftselite über familiäre Netzwerke, Sozialisierung in Unternehmerfamilie und strategisches Heiraten (Augustine 2003: 164)
+
+**Hypothese 5**: Je reicher ein Individuum, desto größer die Wahrscheinlichkeit, das Vermögen zu perpetuieren.
+
+## Datengrundlage {.larger}
+
+-   Jahrbuch des Vermögens und Einkommens der Millionäre (Martin, 1913)
+
+-   Datenbank der Reichstagsabgeordneten (1867 - 1938) [^1]
+
+-   Liste der Mitglieder des Preußischen Herrenhauses [^2]
+
+-   Liste der Mitglieder des preußischen Abgeordnetenhauses (Mann, 1998)
+
+-   Heutige Manager Magazin Listen (Bornefeld 2019)
+
+[^1]: https://www.reichstag-abgeordnetendatenbank.de/
+
+[^2]: https://de.wikipedia.org/wiki/Liste_der_Mitglieder_des_Preu%C3%9Fischen_Herrenhauses
+
+→ Verknüpfung über GND und Wikidata ID
+
+## Daten und Methoden
+
+-   Daten
+    -   N = 1000 Reichste auf Rudolf Martin Liste
+    -   Angereichert mit Variablen wie heute noch reich, Politiker, Provinz
+-   Methoden
+    -   Deskriptiv: Netzwerkanalyse, Häufigkeitsauswertungen
+    -   Schließend: Logistische Regression
+
+## Geographischer Überblick: <br> Reiche pro Einwohner
+
+```{r}
+#| echo: false
+#| output: false
+Sys.info()['nodename']
+work_dir = ifelse(Sys.info()['nodename']=="P2010", 
+                  "C:/Users/ti/Local/seafile/main/shk/lena/project_rich_pol",
+                  ifelse(Sys.info()['nodename']=="P2101",
+                         "C:/Users/ral/Local/Keeper/shk/lena/project_rich_pol",
+                         ifelse(Sys.info()['nodename']=="DARIASLAPTOP",
+                                "D:/seafile/main/shk/lena/project_rich_pol",
+                                "Datenpfad Lena Laptop")))
+setwd(work_dir)
+getwd()
+source("code/10_geo_map.R")
+```
+
+```{r}
+map_n_1000
+```
+
+::: notes
+ALT + Click um reinzuzoomen
+
+zweimal esc um zurück zu kommen
+:::
+
+## Geographischer Überblick: <br> Heutiger Reichtum und Adel
+
+```{r}
+map_singles
+```
+
+## Familiennetzwerke: Politik und Reichtum {.scrollable}
+
+```{r}
+#| echo: false
+#| output: false
+Sys.info()['nodename']
+work_dir = ifelse(Sys.info()['nodename']=="P2010", 
+                  "C:/Users/ti/Local/seafile/main/shk/lena/project_rich_pol",
+                  ifelse(Sys.info()['nodename']=="P2101",
+                         "C:/Users/ral/Local/Keeper/shk/lena/project_rich_pol",
+                         ifelse(Sys.info()['nodename']=="DARIASLAPTOP",
+                                "D:/seafile/main/shk/lena/project_rich_pol",
+                                "Datenpfad Lena Laptop")))
+setwd(work_dir)
+getwd()
+source("code/07_analyses.R")
+```
+
+```{r}
+#| echo: false
+#| output: false
+## Packages
+pkgs <- c(
+  "ggplot2",
+  "readxl",
+  "writexl",
+  "tidyverse",
+  "stargazer",
+  "WikidataQueryServiceR",
+  "igraph",
+  "ggraph",
+  "ggiraph"
+)
+
+## Install uninstalled packages
+lapply(pkgs[!(pkgs %in% installed.packages())], install.packages)
+
+## Load all packages to library
+lapply(pkgs, library, character.only = TRUE)
+
+
+Sys.info()['nodename']
+work_dir = ifelse(Sys.info()['nodename']=="P2010", 
+                  "C:/Users/ti/Local/seafile/main/shk/lena/project_rich_pol",
+                  ifelse(Sys.info()['nodename']=="P2101",
+                         "C:/Users/ral/Local/Keeper/shk/lena/project_rich_pol",
+                         ifelse(Sys.info()['nodename']=="DARIASLAPTOP",
+                                "D:/seafile/main/shk/lena/project_rich_pol",
+                                "Datenpfad Lena Laptop")))
+setwd(work_dir)
+getwd()
+load(file = "data_prepared/graphi_layout_g2.RData")
+load(file = "data_prepared/all_igraph_only_rich.Rdata")
+```
+
+```{r}
+#| echo: false
+#| output: true
+
+all_all2 =ggraph(graphi_layout) +
+  geom_edge_link0( edge_width = 2/.pt, alpha = 0.7 ) +
+  geom_point_interactive(aes(x = x, y = y,
+                             tooltip = paste0(nodes2$nodeLabel2),
+                             color = nodes2$group,
+                             size = nodes2$group,
+                             onclick=paste0('window.open("', "http://www.wikidata.org/entity/", name , '")'))
+                         # onclick= window.open(\"%s%s\")",
+                         #          "http://en.wikipedia.org/wiki/",
+                         #          as.character(crimes$state)),
+                         ) +
+  theme_graph()+
+  scale_color_manual(values=c("darkblue","aliceblue","deepskyblue4", "blue","gold","darkred"),
+                    name="Nodes: Individuals",
+                    labels=c("Herrenhaus", 
+                             "Familienmitglieder",
+                             "Reichstag",
+                             "Abgeordnetenhaus",
+                             "Reich",
+                             "Reich und Politiker")
+  ) +
+  scale_size_manual(values= c(1,3,3,3,3,3)) +
+  scale_alpha_manual(values= c(0.35,1,1,1,1,1)) +
+  guides(size = "none")   +
+  theme(legend.text=element_text(size=26), legend.title=element_text(size=26),
+        legend.position = c(0.85, 0.85), text = element_text(family = "serif"))  # legend.position = c(0.95, 0.1)
+
+
+all_all_widget <- girafe(ggobj = all_all2, width_svg = 22, height_svg = 22,
+                    options = list(opts_sizing(rescale = TRUE),
+                                   opts_hover_inv(css = "opacity:0.1;"),
+                                   opts_hover(css = "fill:red;")))
+all_all_widget
+```
+
+## Dekriptive Beschreibung der Daten
+
+\
+
+```{r}
+bar_charts
+```
+
+## Wahrscheinlichkeit, Politiker zu sein
+
+\
+
+```{r}
+tab_model1
+```
+
+\
+\
+→ Für adelige Reiche ist die Chance, Politiker zu sein 5-mal so hoch wie für nicht-adelige Reiche \[H2 ✓\].
+
+## Wahrscheinlichkeit, Politiker zu sein nach Vermögenshöhe
+
+```{r}
+p_pol
+```
+
+\
+
+→ Je reicher, desto größer ist die Wahrscheinlichkeit \[H1 ✓\]
+
+## Vermögenserhalt über ein Jahrhundert
+
+```{r}
+all_model
+```
+
+::: notes
+-   Die Wahrscheinlichkeit, heute noch superreiche Nachfahren zu haben ist 2 mal so hoch für Individuen, die Anfang des 20. Jahrhunderts reich und politisch aktiv waren als für Individuen, die nur reich waren.
+
+-   Wahrscheinlichkeit, superreiche Nachfahren zu haben liegt bei 10% für Politiker und 4% für nicht Politiker.
+
+-   M6 beinhaltet Dummies für jede Provinz.
+:::
+
+## Wahrscheinlichkeit reicher Nachfahren nach Vermögenshöhe
+
+```{r}
+p_rich_today
+```
+
+\
+
+→ Je reicher, desto größer ist die Wahrscheinlichkeit \[H5 ✓\]
+
+## Zusammenfassung
+
+-   Politische Aktivität als ein Erklärungsfaktor für Reichtumsperpetuation im 20. Jahrhundert
+-   Herrenhaus entscheidend. Warum? Machtelite?
+-   Kein Kausalschluss möglich, andere Faktoren könnten den Zusammenhang von Politik und Reichtumerhalt konfundieren
+
+## To Do
+
+-   Datenanalyse mit Bankier sowie Unternehmer
+-   Familiennetzwerk. Wer Teil der Vermögenselite ist, eher heute noch reich?
+-   Theorieteil: Wieso sollte politische Aktivität Reichtumserhalt begünstigen?
