@@ -1,6 +1,6 @@
 ---
-title: "Politische Aktivität und Reichtumserhalt"
-author: "Daria Tisch¹ & Lena Radau² <br>  <br> 11. November 2022 <br> <br> ¹Max Planck Institute for the Study of Societies <br> ²Bielefeld University"
+title: "Politische Aktivität als Mechanismus des Reichtumserhalts im 20. Jahrhundert"
+author: "Daria Tisch¹  <br>  <br> 11. November 2022 <br> <br> ¹Max Planck Institute for the Study of Societies <br> " #²Bielefeld University #& Lena Radau²
 #subtitle:  
 format: 
   revealjs:
@@ -82,6 +82,9 @@ die Theorie sagt, der Adel hat es verpasst, sich als Wirtschaftselite zu etablie
 
 **Hypothese 5**: Je reicher ein Individuum, desto größer die Wahrscheinlichkeit, das Vermögen zu perpetuieren.
 
+-   Winner-takses-all Charakter von Vermögensakkumulation (Beckert 2022) 
+
+
 ## Datengrundlage {.larger}
 
 -   Jahrbuch des Vermögens und Einkommens der Millionäre (Martin, 1913)
@@ -124,7 +127,7 @@ work_dir = ifelse(Sys.info()['nodename']=="P2010",
                                 "Datenpfad Lena Laptop")))
 setwd(work_dir)
 getwd()
-source("code/10_geo_map.R")
+source("code/04_geo_map.R")
 ```
 
 ```{r}
@@ -158,7 +161,7 @@ work_dir = ifelse(Sys.info()['nodename']=="P2010",
                                 "Datenpfad Lena Laptop")))
 setwd(work_dir)
 getwd()
-source("code/07_analyses.R")
+source("code/05_analyses.R")
 ```
 
 ```{r}
@@ -203,7 +206,7 @@ load(file = "data_prepared/all_igraph_only_rich.Rdata")
 #| output: true
 
 all_all2 =ggraph(graphi_layout) +
-  geom_edge_link0( edge_width = 2/.pt, alpha = 0.7 ) +
+  geom_edge_link0( edge_width = 1/.pt, alpha = 0.5 ) +
   geom_point_interactive(aes(x = x, y = y,
                              tooltip = paste0(nodes2$nodeLabel2),
                              color = nodes2$group,
@@ -223,8 +226,8 @@ all_all2 =ggraph(graphi_layout) +
                              "Reich",
                              "Reich und Politiker")
   ) +
-  scale_size_manual(values= c(1,3,3,3,3,3)) +
-  scale_alpha_manual(values= c(0.35,1,1,1,1,1)) +
+  scale_size_manual(values= c(3,1,3,3,3,3)) +
+  scale_alpha_manual(values= c(1,0.35,1,1,1,1)) +
   guides(size = "none")   +
   theme(legend.text=element_text(size=26), legend.title=element_text(size=26),
         legend.position = c(0.85, 0.85), text = element_text(family = "serif"))  # legend.position = c(0.95, 0.1)
