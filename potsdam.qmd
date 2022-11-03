@@ -270,7 +270,7 @@ p_pol
 
 → Je reicher, desto größer ist die Wahrscheinlichkeit \[H1 ✓\]
 
-## Vermögenserhalt über ein Jahrhundert
+## Vermögenserhalt über ein Jahrhundert {.scrollable}
 
 ```{r}
 all_model
@@ -300,8 +300,9 @@ p_rich_today
 -   Herrenhaus entscheidend. Warum? Machtelite?
 -   Kein Kausalschluss möglich, andere Faktoren könnten den Zusammenhang von Politik und Reichtumerhalt konfundieren
 
-## To Do
 
+::: notes
 -   Datenanalyse mit Bankier sowie Unternehmer
 -   Familiennetzwerk. Wer Teil der Vermögenselite ist, eher heute noch reich?
 -   Theorieteil: Wieso sollte politische Aktivität Reichtumserhalt begünstigen?
+:::
