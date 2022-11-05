@@ -1,6 +1,6 @@
 ---
 title: "Politische Aktivität als Mechanismus des Reichtumserhalts im 20. Jahrhundert"
-author: "Daria Tisch¹  <br>  <br> 11. November 2022 <br> <br> ¹Max Planck Institute for the Study of Societies <br> " #²Bielefeld University #& Lena Radau²
+author: "Daria Tisch¹  <br>  <br> November 2022 <br> <br> ¹Max Planck Institute for the Study of Societies <br> " #²Bielefeld University #& Lena Radau²
 #subtitle:  
 format: 
   revealjs:
@@ -15,24 +15,61 @@ slide-number:
 bibliography: references.bib
 ---
 
-## Motivation {.larger}
+## Motivation 
 
+::: {style="font-size: 120%"}
 Wie schaffen es Familien, ihre Position an der Spitze der Vermögensverteilung über mehr als ein Jahrhundert zu erhalten?
+:::
 
-→ Sozialstrukturelle Mechanismen der Perpetuierung von großen Vermögen
+→ Sozialstrukturelle Mechanismen der Perpetuierung von großen Vermögen: Inwiefern trägt politische Aktivität dazu bei, Reichtum über mehrere Generationen zu erhalten?
+
+
+\
+
+
+[So what?]{style="color:#8B0000;font-size: 120%"}
+
+
+-   Familie als relevante ökonomische Einheit
+-   Normativ: Leistung und nicht Geburt sollen Vermögensposition beeinflussen (Beckert 2008)
+-   Funktional: Ökonomische Ressourcen ineffizient verteilt (Beckert 2022)
+
+
+
+
+
+
+
+::: notes
 
 -   Strategische Allianzen und Machtelite: Verbindungen in Politik
 -   Soziale Schließung: z.B. durch Heiratsstrategien
+- Studying families as significant economic units is by defitintion a historical project
+- Inwiefern hängen Höhe des Vermögens, Zugehörigkeit zum Adel sowie der Sektor damit zusammen, ein politisches Amt am Anfang des 20. Jahrhunderts innezuhaben?
 
-So what?
 
--   normativ: Leistung und nicht Geburt sollen Vermögensposition beeinflussen (Beckert 2008)
--   funktional: Ökonomische Ressourcen ineffizient verteilt (Beckert 2022)
+:::
 
-## Forschungsfragen
+## Bisherige Forschung
 
-1.  Inwiefern trägt politische Aktivität dazu bei, Reichtum über mehrere Generationen zu erhalten?
-2.  Inwiefern hängen Höhe des Vermögens, Zugehörigkeit zum Adel sowie der Sektor damit zusammen, ein politisches Amt am Anfang des 20. Jahrhunderts innezuhaben?
+-   Intergenerationale Vermögensmobilität niedrig (e.g., Hansen 2014, Clark & Cummins 2015, Barone & Mocetti 2020, Pfeffer & Killewald 2018)
+-   Clark & Cummins (2015): Trotz institutionellen Veränderungen: Vermögensmobilität konstant in GB (1858-2012) 
+-   Barone & Mocetti (2020): Persistenz in Vermögen, Einkommen und Elitenberufe
+
+→  Forschungslücke: Mechanismen des Vermögenserhalts
+
+[Beitrag]{style="color:#8B0000;font-size: 120%"}
+
+-   Elitenzirkulation: soziale Mobilität innerhalb der Vermögenselite
+-   Sozialstruktur der Vermögenselite als Erklärung des Vermögenserhalts
+-   Verbindung Vermögenselite und politische Elite
+
+::: notes
+- integenerationale Vermögensmobilität niedrig, vor allem am oberen und unteren Ende der Vermögensverteilung
+
+- florenz: six centuries
+:::
+
 
 ## Hypothesen: Politische Amtsträger
 
@@ -101,7 +138,7 @@ die Theorie sagt, der Adel hat es verpasst, sich als Wirtschaftselite zu etablie
 
 [^2]: https://de.wikipedia.org/wiki/Liste_der_Mitglieder_des_Preu%C3%9Fischen_Herrenhauses
 
-→ Verknüpfung über GND und Wikidata ID
+→ Verknüpfung über GND und Wikidata ID, sowie händisch
 
 ## Daten und Methoden
 
@@ -240,7 +277,7 @@ all_all_widget <- girafe(ggobj = all_all2, width_svg = 22, height_svg = 22,
 all_all_widget
 ```
 
-## Dekriptive Beschreibung der Daten
+## Deskriptive Beschreibung der Daten
 
 \
 
@@ -299,6 +336,17 @@ p_rich_today
 -   Politische Aktivität als ein Erklärungsfaktor für Reichtumsperpetuation im 20. Jahrhundert
 -   Herrenhaus entscheidend. Warum? Machtelite?
 -   Kein Kausalschluss möglich, andere Faktoren könnten den Zusammenhang von Politik und Reichtumerhalt konfundieren
+
+
+\
+
+
+\
+
+::: {style="font-size: 120%; text-align: center"}
+Kontakt: tisch@mpifg.de
+:::
+
 
 
 ::: notes
