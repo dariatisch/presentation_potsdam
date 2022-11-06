@@ -183,7 +183,7 @@ zweimal esc um zurück zu kommen
 map_singles
 ```
 
-## Familiennetzwerke: Politik und Reichtum  Anfang 20. Jhd {.scrollable}
+## Familiennetzwerke: Politik und Reichtum  Anfang 20. Jahrhundert {.scrollable}
 
 ```{r}
 #| echo: false
