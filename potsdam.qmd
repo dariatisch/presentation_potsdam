@@ -75,7 +75,7 @@ Wie schaffen es Familien, ihre Position an der Spitze der Vermögensverteilung �
 
 **Hypothese 1**: Je reicher ein Individuum desto größer die Wahrscheinlichkeit, ein politisches Amt inne zu haben.
 
--   Finanzielle Sicherheit essenntiell für parlamentarische Karriere (Berghoff 1995)
+-   Finanzielle Sicherheit essentiell für parlamentarische Karriere (Berghoff 1995)
 
 -   Preußen begünstigt Interessen der Reichen überproportional (Berghoff 1995; Ullmann 2009)
 
@@ -119,18 +119,18 @@ die Theorie sagt, der Adel hat es verpasst, sich als Wirtschaftselite zu etablie
 
 **Hypothese 5**: Je reicher ein Individuum, desto größer die Wahrscheinlichkeit, das Vermögen zu perpetuieren.
 
--   Winner-takses-all Charakter von Vermögensakkumulation (Beckert 2022) 
+-   Winner-takes-all Charakter von Vermögensakkumulation (Beckert 2022) 
 
 
 ## Datengrundlage {.larger}
 
--   Jahrbuch des Vermögens und Einkommens der Millionäre (Martin, 1913)
+-   Jahrbuch des Vermögens und Einkommens der Millionäre (Martin 1913)
 
 -   Datenbank der Reichstagsabgeordneten (1867 - 1938) [^1]
 
 -   Liste der Mitglieder des Preußischen Herrenhauses [^2]
 
--   Liste der Mitglieder des preußischen Abgeordnetenhauses (Mann, 1998)
+-   Liste der Mitglieder des preußischen Abgeordnetenhauses (Mann 1998)
 
 -   Heutige Manager Magazin Listen (Bornefeld 2019)
 
@@ -183,7 +183,7 @@ zweimal esc um zurück zu kommen
 map_singles
 ```
 
-## Familiennetzwerke: Politik und Reichtum {.scrollable}
+## Familiennetzwerke: Politik und Reichtum  Anfang 20. Jhd {.scrollable}
 
 ```{r}
 #| echo: false
