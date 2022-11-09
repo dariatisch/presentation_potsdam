@@ -334,8 +334,6 @@ Es zeigt sich, dass 1. es ein großes Verwandschaftsnetzwerk gibt. Das heißt, T
 tab_model1
 ```
 
-\
-\
 → Für adelige Reiche ist die Chance, Politiker zu sein 5-mal so hoch wie für nicht-adelige Reiche \[H2 ✓\].
 
 ::: notes
@@ -395,9 +393,7 @@ Auch die Wahrscheinlichkeit Nachfahren zu haben, die zu den reichsten Familien 2
 \
 
 ::: {style="font-size: 120%; text-align: center"}
-Kontakt:
-
-tisch\@mpifg.de
+Kontakt: tisch\@mpifg.de
 
 dariatisch.github.io
 :::
