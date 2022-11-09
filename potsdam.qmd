@@ -51,7 +51,7 @@ Warum ist es relevant, sich anzuschauen, ob und wie die Vermögenselite ihre Pos
 -   Clark & Cummins (2015): Trotz institutionellen Veränderungen: Vermögensmobilität konstant in GB (1858-2012)
 -   Barone & Mocetti (2020): Persistenz in Vermögen, Einkommen und Elitenberufe
 
-→ Forschungslücke: Mechanismen des Vermögenserhalts
+→ Forschungslücke: Mechanismen des Vermögenserhalts von Familien
 
 [Beitrag]{style="color:#8B0000;font-size: 120%"}
 
@@ -66,6 +66,7 @@ Es gibt also einige Studien, die auf eine starke Vermögenspersistenz hindeuten,
 
 -   integenerationale Vermögensmobilität niedrig, vor allem am oberen und unteren Ende der Vermögensverteilung
 -   florenz: six centuries
+-   shifting the perspective to kinship structures as social groups, where social reproduction works at the group level, appears to be a fruitful endeavor, and it should be a future aim to identify more kin group-level characteristics that explain persistence. (Hällsten und Kolk 2020)
 :::
 
 ## Hypothesen: Politische Amtsträger
@@ -347,8 +348,6 @@ Aber zunächst schauen wir uns die Wahrscheinlichkeit, Politiker zu sein an. Hie
 p_pol
 ```
 
-\
-
 → Je reicher, desto größer ist die Wahrscheinlichkeit \[H1 ✓\]
 
 ::: notes
@@ -377,8 +376,6 @@ Für reiche Politiker ist die Chance über 2 mal so hoch wie für reiche nicht P
 p_rich_today
 ```
 
-\
-
 → Je reicher, desto größer ist die Wahrscheinlichkeit \[H5 ✓\]
 
 ::: notes
@@ -387,12 +384,13 @@ Auch die Wahrscheinlichkeit Nachfahren zu haben, die zu den reichsten Familien 2
 
 ## Zusammenfassung
 
--   6% der 1000 reichsten Preußen (1912) haben superreiche Nachfahren: Familie hat langfristigen Effekt auf heutige Reichtumsstruktur
--   Politische Aktivität & familiäres Netzwerk als Erklärungsfaktoren für Reichtumsperpetuation im 20. Jahrhundert[@wagner2020; @toft2022]
+-   6% der 1000 reichsten Preußen (1912) haben superreiche Nachfahren
+    -   Familie hat langfristigen Effekt auf heutige Reichtumsstruktur
+
+    -   Soziale Reproduktion auf Gruppenebene (Familie): Identifizierung von Familiencharakteristiken notwendig, die Persistenz erklären (Hällsten und Kolk 2020)
+-   Politische Aktivität & familiäres Netzwerk als Erklärungsfaktoren für Reichtumsperpetuation im 20. Jahrhundert [@wagner2020; @toft2022]
 -   Herrenhaus entscheidend. Warum? Kern der Elite? Machtelite?
 -   Kein Kausalschluss möglich, andere Faktoren könnten den Zusammenhang von Politik und Reichtumerhalt konfundieren
-
-\
 
 \
 
@@ -405,9 +403,11 @@ dariatisch.github.io
 :::
 
 ::: notes
-Zusammenfassend zeigen sich also Hinweise, dass die politische Aktivität (insbesondere Mitglied im Herrenhaus zu sein) ein Erklärungsfaktor für den Erhalt des Reichtums ist. Die Zugehörigkeit zum Adel hingegen hängt nicht signifikant mit dem Vermögenserhalt zusammen.
+Dann komme ich zu meiner Zusammenfassung. Es zeigt sich, dass 6% der 1000 reichsten Preußen Nachfahren haben, die heute noch auf der Reichenliste stehen. Ein Hinweis also auf die Persistenz von Reichtum. Ich habe zeigen können, dass die Familie und familiäre Beziehungen Anfang des 20. Jahrhundert eine bedeutende Rolle gespielt haben. Und dass die heutige Reichtums- und Sozialstruktur immer noch von familiären Netzwerken von vor über 100 Jahren geprägt sind. Dies verdeutlicht, dass die Betrachtung von Familien als soziale Gruppen wichtig ist, um soziale Reproduktion zu verstehen. Es stellt sich also die Frage, welche Charakteristiken von Familien notwenig sind, um die Persistenz von Reichtum zu erklären.
 
-Die Studie zeigt auch, dass die Familie und familiäre Beziehungen Anfang des 20. Jahrhundert eine bedeutende Rolle gespielt haben. Familiäre Beziehungen zur Politik halfen scheinbar, das Familienvermögen zu erhalten. Dies zeigt, dass die heutige Reichtums und damit Sozialstruktur immer noch von familiären Netzwerken von vor über 100 Jahren geprägt sind.
+In dieser Studie schaue ich mir an, wie die familiäre Beziehungen zur Politik mit dem Erhalt des Familienvermögen zusammenhängen. Es zeigt sich, dass die familiäre Verflechtung zur Politik (insbesondere zum Herrenhaus) ein Erklärungsfaktor für den Erhalt des Reichtums ist. Die Zugehörigkeit zum Adel hingegen hängt nicht signifikant mit dem Vermögenserhalt zusammen.
+
+Ich kann hier natürlich keine Kausalität zeigen, da es viele andere Faktoren gibt, die den Zusammenhang von Verflechtung zu Politik und Reichtumserhalt konfundieren.
 
 Ausblick: Ich möchte meinen Datensatz noch auf ganz Deutschland ausweiten.
 
@@ -419,7 +419,9 @@ Ausblick: Ich möchte meinen Datensatz noch auf ganz Deutschland ausweiten.
 
 -   Theorieteil: Wieso sollte politische Aktivität Reichtumserhalt begünstigen?
 
--   "today\'s inequality regime may have been formed many generations back." (Wagner 2022)
+-   "today's inequality regime may have been formed many generations back." (Wagner 2022)
+
+-   shifting the perspective to kinship structures as social groups, where social reproduction works at the group level, appears to be a fruitful endeavor, and it should be a future aim to identify more kin group-level characteristics that explain persistence. (Hällsten und Kolk 2020)
 :::
 
 ## References
