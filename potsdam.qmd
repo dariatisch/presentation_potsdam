@@ -1,6 +1,6 @@
 ---
-title: "Politische Aktivität als Mechanismus des Reichtumserhalts im 20. Jahrhundert"
-author: "Daria Tisch¹  <br>  <br> November 2022 <br> <br> ¹Max Planck Institute for the Study of Societies <br> " #²Bielefeld University #& Lena Radau²
+title: "Reichtumserhalts im 20. Jahrhundert in Deutschland"
+author: "Daria Tisch¹  <br>  <br> 14. November 2022 <br> <br> ¹Max Planck Institute for the Study of Societies <br> " #²Bielefeld University #& Lena Radau²
 #subtitle:  
 format: 
   revealjs:
@@ -15,13 +15,13 @@ slide-number:
 bibliography: references.bib
 ---
 
-## Motivation
+## Forschungsfrage und Motivation
 
 ::: {style="font-size: 120%"}
 Wie schaffen es Familien, ihre Position an der Spitze der Vermögensverteilung über mehr als ein Jahrhundert zu erhalten?
 :::
 
-→ Sozialstrukturelle Mechanismen der Perpetuierung von großen Vermögen: Inwiefern trägt politische Aktivität dazu bei, Reichtum über mehrere Generationen zu erhalten?
+→ Sozialstrukturelle Mechanismen der Perpetuierung von großen Vermögen (Adel, Höhe des Reichtums, familiäre Verflechtungen der Elite)
 
 \
 
@@ -32,17 +32,21 @@ Wie schaffen es Familien, ihre Position an der Spitze der Vermögensverteilung �
 -   Funktional: Ökonomische Ressourcen ineffizient verteilt und Gefahr des sozialen Zusammenhaltes [@beckert2022; @toft2022]
 
 ::: notes
-Liebe Kolleginnen und Kollegen,
+-   Größeres Projekt zur Beschreibung der Superreichen in Deutschland
 
-erstmals möchte ich mich bei Ronny für die Organisation dieser Tagung bedanken.
+-   Artikel 1: Heutige Superreichen
 
-Ich freue mich sehr darüber, dass wir auf diesem Workshop Soziologie und Geschichtswissenschaft zusammenbringen, um voneinander zu lernen.
+-   Historisch angelegte Projekte, das Vermögen akkumuliert teils über mehrere Generationen
 
-Ich stelle heute eine Projekt vor, das noch ganz am Anfang steht. Da es historisch angelegt ist, freue ich mich sehr über jegliche Hinweise und Kommentare von Ihnen.
+-   Neues Projekt: wie es Familien schaffen, ihre Position an der Spitze der Vermögensverteilung über mehr als 100 Jahre zu erhalten. Ich bin dabei an dem Einfluss der Sozialstruktur interessiert und insbesondere wie familiäre Beziehungen und die Zugehörigkeit zum Adel zum Reichtumserhalt beitragen.
 
-In einem größeren Projekt schaue ich mir Deutschlands Superreiche an, immer mit einem Blick in die Vergangenheit. Als Vermögensforscherin finde ich den Bick in die Verganganheit unabdingbar, um Reichtum zu verstehen, da Vermögen und Reichtum im Gegensatz zu Einkommen über einen längeren Zeitraum akkumuliert wurden. Teils sogar über mehrere Jahrhunderte. In dem Projekt, das ich heute vorstelle, untersuche ich, wie es Familien schaffen, ihre Position an der Spitze der Vermögensverteilung über mehr als 100 Jahre zu erhalten. Als Soziologin bin ich dabei an dem Einfluss der Sozialstruktur interessiert. Und insbesondere analysiere ich, wie politische Aktivität und die Zugehörigkeit zum Adel zum Reichtumserhalt beitragen.
+-   Warum ist es relevant, sich anzuschauen, ob und wie die Vermögenselite ihre Position über ein Jahrhundert hinweg erhält?
 
-Warum ist es relevant, sich anzuschauen, ob und wie die Vermögenselite ihre Position über ein Jahrhundert hinweg erhält? Zum einen argumentiere ich, dass diese Frage es ermöglicht, die Rolle der Familie als ökonomische Einheit zu verstehen. Spielt die Familie eine relevante Rolle bei der Produktion von Reichtum und der Vermögenselite? Zweitens gibt es eine normative Begründung für meine Forschungsfrage. Wir leben in einer Leistungsgesellschaft und daher sollte Leistung und nicht Geburt die Position in der Vermögensverteilung bestimmen. Ob dies so ist, kann ich mit der Forschungsfrage untersuchen. Drittens wird angebracht, dass die Perpetuierung von großen Vermögen problematisch ist, da ökonomische Ressourcen ineffizient verteilt werden. Und auch dass, wenn es keine personelle Veränderung innerhalb der Elite gibt, die Elite sich von der restlichen Gesellschaft abwendet, soziale Probleme nicht mehr versteht und so den sozialen Zusammenhalt gefährdet.
+-   1.Die Rolle der Familie als ökonomische Einheit zu verstehen. Spielt die Familie eine relevante Rolle bei der (Re)produktion von Reichtum und der Vermögenselite?
+
+-   2.Normative Begründung. Leistungsgesellschaft: Leistung und nicht Geburt die Position in der Vermögensverteilung bestimmen.
+
+-   3.ökonomische Ressourcen ineffizient verteilt. keine personelle Veränderung innerhalb der Elite gibt--\> soziale Schließung --\> soziale Probleme nicht mehr versteht und so den sozialen Zusammenhalt gefährdet.
 :::
 
 ## Bisherige Forschung
@@ -56,20 +60,34 @@ Warum ist es relevant, sich anzuschauen, ob und wie die Vermögenselite ihre Pos
 [Beitrag]{style="color:#8B0000;font-size: 120%"}
 
 -   Elitenzirkulation: soziale Mobilität innerhalb der Vermögenselite
--   Sozialstruktur der Vermögenselite als Erklärung des Vermögenserhalts
+-   Sozialstruktur & familiäre Verflechtung der Elite als Erklärung des Vermögenserhalts
 -   Verbindung Vermögenselite und politische Elite
 
 ::: notes
-Was können wir aus bisheriger Forschung über den Reichtumserhalt lernen? Einige Studien haben sich bereits mit intergenerationaler Vermögensmobilität befasst. Diese Studien zeigen, dass die Vermögensmobilität niedrig ist, vor allem aber am oberen und unteren Ende der Vermögensverteilung. Diese Studien basieren auf Registerdaten (Norwegen) und Umfragedaten (bis zu drei Generationen). Wenn man sich über einen längeren Zeitraum intergenerationaler Vermögensmobilität anschauen will, ist es schwierig mit Umfragedaten zu arbeiten. Daher nutzen einige Studien seltenen Nachnamen, um Vermögensmobilität über mehrere Generationen oder sogar Jahrhunderte zu schätzen. Clark & Cummins schauen sich Vermögensmobilität in GB an und zeigen, dass diese trotz institutioneller Veränderungen in den letzten 5 Generationen konstant blieb. \[Wenn er Nachnamen nach Vermögenshöhe gruppiert zeigt sich geringere Mobilität als wenn er einzelne Nachnamen betrachtet\] Barone & Mocetti schauen sich die Stadt Florenz an und zeigen eine enorme Persistenz in Einkommen, Vermögen und Eliteberufen zwischen 1427 und 2011.
+Was können wir aus bisheriger Forschung über den Reichtumserhalt lernen?
 
-Es gibt also einige Studien, die auf eine starke Vermögenspersistenz hindeuten, allerdings wissen wir nicht, was die sozialstrukturellen Mechanismen des Vermögenserhaltes sind. Mit meinem Projekt möchte ich zu dieser Literatur beitragen, indem ich mir zunächst anschaue, inwiefern es soziale Mobilität innerhalb der Vermögenselite gibt. In einem zweiten Schritt möchte ich die Persistenz von Reichtum durch sozialstrukturelle Faktoren erklären. Hierbei schaue ich mir an, ob Verbindungen zu Politik und zum Adel mit dem Erhalt von Vermögen zusammenhängen. Indem ich mir die Verbindung von Vermögenselite und politischer Elite anschaue, trage ich auch zu einem wichtigsten Thema der Elitenliteratur, nämlich ob es eine homogene Elite gab.
+-   Vermögensmobilität niedrig, vor allem aber am oberen und unteren Ende der Vermögensverteilung.
 
--   integenerationale Vermögensmobilität niedrig, vor allem am oberen und unteren Ende der Vermögensverteilung
--   florenz: six centuries
--   shifting the perspective to kinship structures as social groups, where social reproduction works at the group level, appears to be a fruitful endeavor, and it should be a future aim to identify more kin group-level characteristics that explain persistence. (Hällsten und Kolk 2020)
+-   Registerdaten (Norwegen) und Umfragedaten (bis zu drei Generationen).
+
+-   Seltenen Nachnamen, um Vermögensmobilität über mehrere Generationen oder sogar Jahrhunderte zu schätzen.
+
+-   Clark & Cummins schauen sich Vermögensmobilität in GB an und zeigen, dass diese trotz institutioneller Veränderungen in den letzten 5 Generationen konstant blieb. \[Wenn er Nachnamen nach Vermögenshöhe gruppiert zeigt sich geringere Mobilität als wenn er einzelne Nachnamen betrachtet\]
+
+-   Barone & Mocetti schauen sich die Stadt Florenz an und zeigen eine enorme Persistenz in Einkommen, Vermögen und Eliteberufen zwischen 1427 und 2011.
+
+Aber was sind die sozialstrukturellen Mechanismen des Vermögenserhaltes?
+
+Mein BEitrag:
+
+1.  inwiefern soziale Mobilität innerhalb der Vermögenselite in Deutschland?
+2.   Persistenz von Reichtum durch sozialstrukturelle Faktoren erklären.
+3.  Familiäre Verflechtungen innerhalb der Vermögens und politischen Elite
+4.   Indem ich mir die Verbindung von Vermögenselite und politischer Elite anschaue, trage ich auch zu einem wichtigsten Thema der Elitenliteratur, nämlich ob es eine homogene Elite gab.
+5.  shifting the perspective to kinship structures as social groups, where social reproduction works at the group level, appears to be a fruitful endeavor, and it should be a future aim to identify more kin group-level characteristics that explain persistence. (Hällsten und Kolk 2020)
 :::
 
-## Hypothesen: Politische Amtsträger
+## Hypothesen: Politische & Vermögenselite
 
 **Hypothese 1**: Je reicher ein Individuum desto größer die Wahrscheinlichkeit, ein politisches Amt inne zu haben.
 
@@ -84,17 +102,20 @@ Es gibt also einige Studien, die auf eine starke Vermögenspersistenz hindeuten,
 -   Preußisches Abgeordnetenhauses: Dreiklassenwahlrecht
 
 ::: notes
-Im folgenden möchte ich meine Hypothesen vorstellen und herleiten. Zunächst habe ich 2 Hypothesen zur Verbindung von Reichtum und Politik Anfang des 20. Jahrhunderts. Zum einen erwarte ich, dass je reicher eine Person ist, desto größer die Wahrscheinlichkeit, Politiker zu sein. Anfang des 20. Jahrhunderts gabe es nur geringe Aufwandsentschädigungen für politische Aktivität, weshalb die finanzielle Sicherheit essentiell für die parlamentarische Karriere war.
+Da ein Interesse, ob Zugehörigkeit zur Elite im 20. Jhd mit dem Erhalt des Reichtums zusammenhängt, muss ich erstmal zeigen, dass es eine solche Elite Anfang des 20. Jhd gab.
 
-Zum anderen erwarte ich, dass adelige Reiche eine größere WKT haben, Politiker zu sein als nicht adelige Reiche. Im wilhelminischen Deutschland hatte der Adel eine gesellschaftliche Leitfunktion, die sich auch darin ausdrückte, dass der Adel Politik, Bürokratie und Militär dominierte. Im Preußischen Herrenhaus wurden die Mitglieder vom König = Kaiser (Wilhelm II.) ernannt, das Herrenhaus war sehr deutlich vom Adel dominiert.
+Daher 2 Hypothesen.
 
--   Beispiel 1908: 4 % der Wähler der ersten Klasse bestimmen genauso viele Wahlmänner wie 85 % der Wähler der dritten Klasse
+1.  je reicher eine Person ist, desto größer die Wahrscheinlichkeit, Politiker zu sein.
+    -   geringe Aufwandsentschädigungen für politische Aktivität, finanzielle Sicherheit essentiell für die parlamentarische Karriere
+2.  adelige Reiche größere WKT haben, Politiker zu sein als nicht adelige Reiche.
+    -   Im wilhelminischen Deutschland hatte der Adel eine gesellschaftliche Leitfunktion, die sich auch darin ausdrückte, dass der Adel Politik, Bürokratie und Militär dominierte. Im Preußischen Herrenhaus wurden die Mitglieder vom König = Kaiser (Wilhelm II.) ernannt, das Herrenhaus war sehr deutlich vom Adel dominiert.
 
--   Einteilung der Wähler nach ihrem Anteil am Steueraufkommen in drei Klassen, jede Klasse wählt jedoch die gleiche Anzahl an Wahlmännern
+\[
 
--   Keine geheime Wahl: Abhängigkeitsverhältnisse konnten stark ausgenutzt werden
-
--   Adel dominiert Politik, Bürokratie und Militär
+1.  Beispiel 1908: 4 % der Wähler der ersten Klasse bestimmen genauso viele Wahlmänner wie 85 % der Wähler der dritten Klasse
+2.  Einteilung der Wähler nach ihrem Anteil am Steueraufkommen in drei Klassen, jede Klasse wählt jedoch die gleiche Anzahl an Wahlmännern
+3.  Keine geheime Wahl: Abhängigkeitsverhältnisse konnten stark ausgenutzt werden
 :::
 
 ## Hypothesen: Vermögenserhalt
@@ -106,18 +127,20 @@ Zum anderen erwarte ich, dass adelige Reiche eine größere WKT haben, Politiker
 -   Unternehmerische Tätigkeiten galten als nicht standesgemäß, Ablehnung des kapitalistischen Wirtschaftens [@augustine2003; @berghoff2008]
 
 ::: notes
-Nun komme ich zu den Hypothen zum Vermögenserhalt über 1 Jahrhundert. Zunächst erwarte ich, dass Adelige geringere Chancen haben, ihr Vermögen zu erhalten als nicht adelige Reiche. Der Adel war in sich geschlossen und grenzte sich von der Wirtschaftselite und dem Bürgertum ab. Unternehmerische Tätigkeiten galten als nicht standesgemäß und kapitalisches Wirtschaften wurde abgelehnt. Demnach sollten sie geringere Chancen haben, ihr Reichtum im 20. Jahrhundert zu erhalten.
+-   Nun Hypothesen zum Vermögenserhalt, eigentliche Frage
 
-\[die Theorie sagt, der Adel hat es verpasst, sich als Wirtschaftselite zu etablieren, weil kapitalistisches Unternehmertum als nicht standesgemäß galt und zu sehr an den alten Werten und Tugenden festgehalten wurde. Nur einige wenige Adelige finden sich unter den Unternehmern.\]
+-   Adelige geringere Chancen ihr Vermögen zu erhalten als nicht adelige Reiche.
+
+    -   Adel in sich geschlossen, Abgrenzung von Wirtschaftselite und dem Bürgertum . Unternehmerische Tätigkeiten galten als nicht standesgemäß und kapitalisches Wirtschaften wurde abgelehnt. Demnach sollten sie geringere Chancen haben, ihr Reichtum im 20. Jahrhundert zu erhalten
 :::
 
 ## Hypothesen: Vermögenserhalt 2
 
-**Hypothese 4**: Reiche Menschen mit (Familienmitgliedern mit) politischem Amt haben eine größere Wahrscheinlichkeit, ihr Vermögen über mehr als ein Jahrhundert zu erhalten als Reiche, die keine politischen Amtsträger waren.
+**Hypothese 4**: Familiäre Zugehörigkeit zur politischen und Reichtumselite erhöht die Wahrscheinlichkeit des Reichtumserhaltes.
 
 -   Strategische Allianzen zur Festigung der sozialen Position (Augustine 1994, Farrell 1993) [@augustine1994]
 
--   Kern der Machtelite (Politik und Vermögen)
+-   "Imprinting effect" der Zugehörigkeit zum Kern der Machtelite (Politik und Vermögen)
 
 -   Mechanismen sozialer Schließung: Rekrutierung in Wirtschaftselite über familiäre Netzwerke, Sozialisierung in Unternehmerfamilie und strategisches Heiraten [@augustine2003]
 
@@ -126,9 +149,17 @@ Nun komme ich zu den Hypothen zum Vermögenserhalt über 1 Jahrhundert. Zunächs
 -   Winner-takes-all Charakter von Vermögensakkumulation und "accumulation of advantages" [@beckert2022; @mills2000]
 
 ::: notes
-Nun komme ich zu meiner Kernhypothese, die lautet, dass reiche Menschen mit politischem Amt oder einem Familienmitglied mit politischem Amt größere Chancen haben, den Reichtum zu erhalten als reiche Menschen ohne politisches Amt. Mein Argument ist, dass es zum Erhalt der Position an der Spitze der Vermögensverteilung notwendig ist, strategische Allianzen zu haben. Also ein gutes familiäres Netzwerk. Genauso wie für ein Individuum im Lebenslauf ein gutes Netzwerk wichtig ist, um Vermögen zu akkumulieren, erwarte ich, dass es auch für Familien entscheinend ist, ein gutes familiäres Netzwerk zu haben. Qualitative Studien wie die von Betty Farrell für Bosten im 19. Jahrhundert deuten auf die Wichtigkeit des familiären Netzwerkes hin. Und ich möchte mir eben anschauen, ob ein gutes Familiennetzwerk langfristige Folgen hat.
+Argument: zum Erhalt der Position an der Spitze der Vermögensverteilung sind strategische Allianzen notwendig.
 
-Zuletzt erwarte ich aufgrund des Winner-takes-all Charakter von Vermögensakkumulation, dass die Höhe des Reichtums mit de Chancen des Reichtumserhalt positiv zusammenhängt. Mills argumentiert in seinem Buch "The power elite", dass Reichtum einen Akkumulationsvorteil mit sich bringt. Je strategischer die ökonomische Position ist und desto reicher ein Mensch, desto leichter ist es, noch mehr Vermögen zu akkumulieren: "The more he has, the greater his credit"
+-   gutes familiäres Netzwerk. Genauso wie für ein Individuum im Lebenslauf ein gutes Netzwerk wichtig ist, um Vermögen zu akkumulieren, erwarte ich, dass es auch für Familien entscheinend ist, ein gutes familiäres Netzwerk zu haben.
+
+-   "imprinting effect" der Zugehörigkeit zum Kern der Elite.
+
+-   Qualitative Studien wie die von Betty Farrell für Bosten im 19. Jahrhundert deuten auf die Wichtigkeit des familiären Netzwerkes hin. Und ich möchte mir eben anschauen, ob ein gutes Familiennetzwerk Anfang des 20. Jhr langfristige Folgen hat.
+
+-   Worin besteht der imprinting Effekt? Name?
+
+-    Höhe des Reichtums mit de Chancen des Reichtumserhalt positiv zusammenhängt. Mills argumentiert in seinem Buch "The power elite", dass Reichtum einen Akkumulationsvorteil mit sich bringt. Je strategischer die ökonomische Position ist und desto reicher ein Mensch, desto leichter ist es, noch mehr Vermögen zu akkumulieren: "The more he has, the greater his credit"
 :::
 
 ## Datengrundlage {.larger}
@@ -152,7 +183,15 @@ Zuletzt erwarte ich aufgrund des Winner-takes-all Charakter von Vermögensakkumu
 → Verknüpfung über GND und Wikidata ID, sowie händisch
 
 ::: notes
-Als Datengrundlage dient mir das Jahrbuch des Vermögens und Einkommens der Milliönäre von Rudolf Martin. Ich nehme das aus Preußen. Diese Reichenliste verknüpfe ich mit einer Datenbank der Reichtagsabgeordneten, der Mitglieder des Preußischen Herrenhauses und der Mitglieder des preußischen Abgeordnetenhazses. Um eine Variable zu erstellen, ob die Nachfahren heute noch reich sind, verknüpfe ich die Liste mit einer heutigen Reichenliste von 2019.
+Als Datengrundlage dient mir das Jahrbuch des Vermögens und Einkommens der Milliönäre von Rudolf Martin ( Preußen).
+
+-   auf Rudolf Martin eingehen
+
+-   Manager Magazin
+
+-   Verknüpfung wie?
+
+-   Wikidata erklären
 :::
 
 ## Daten und Methoden
@@ -165,7 +204,7 @@ Als Datengrundlage dient mir das Jahrbuch des Vermögens und Einkommens der Mill
     -   Schließend: Logistische Regression
 
 ::: notes
-Mein Datensatz besteht aus den 1000 reichsten Individuen auf der Rudolf Martin Liste, ergänzt mit unterschiedlichen Variablen. Um den Datensatz zu beschreiben nutze ich einfache Häufigkeitsauswertungen und eine Netzwerkanalyse. Für die Netzwerkanalyse habe ich den Datensatz der Reichen sowie den Datensatz der Politiker mit Wikidata verknüpft und hierbei alle direkten Verwandten gescrapt.
+Für die Netzwerkanalyse habe ich den Datensatz der Reichen sowie den Datensatz der Politiker mit Wikidata verknüpft und hierbei alle direkten Verwandten gescrapt.
 
 Um meine Hypothesen zu testen, rechne ich logistische Regressionen, da meine abhängige Variabele binär ist.
 :::
@@ -237,7 +276,7 @@ ALT + Click um reinzuzoomen
 
 zweimal esc um zurück zu kommen
 
-Schauen wir uns das noch etwas detaillierter an. Hier seht ihr alle 1000 Personen auf der Karte verortnet. Dreiecke bedeuten, dass die Person dem Adel angehört. Eine blaue Einfärbung bedeutet, dass die Person reiche Nachfahren hat. Die Karte zeigt, dass die Millionäre regional geclustered waren. Vor allem in der Rheinprovinz sowie in Berlin. Zudem sieht man schön die Dominanz des Adels. Und Enteignung im Osten?
+Hier seht ihr alle 1000 Personen auf der Karte verortnet. Dreiecke bedeuten, dass die Person dem Adel angehört. Eine blaue Einfärbung bedeutet, dass die Person reiche Nachfahren hat. Die Karte zeigt, dass die Millionäre regional geclustered waren. Vor allem in der Rheinprovinz sowie in Berlin. Zudem sieht man schön die Dominanz des Adels. Und Enteignung im Osten? Adel weit verteilt, Nicht Adel extrem geclustered.
 :::
 
 ## Familiennetzwerke: Politik und Reichtum Anfang 20. Jahrhundert {.scrollable}
@@ -321,9 +360,12 @@ all_all_widget
 ::: notes
 Um die familiäre Verflechtung von Politik und Reichtum zu zeigen, habe ich eine Netzwerkgraphik mitgebracht. Jeder Punkt ist ein Individuum. Blaue Punkte sind Politiker. Gelbe Punkte sind Menschen auf der Reichenliste 1912. Rote Punkte sind Personen, die sowohl auf der Reichenliste stehen als auch Politiker sind.
 
-Es zeigt sich, dass 1. es ein großes Verwandschaftsnetzwerk gibt. Das heißt, Teile der politischen und ökonomischen Elite waren verwandt. Die Familie spielt also eine große Rolle bei der Zugehörikeit zur Elite. Es gibt also eine Kernelite definiert durch Verwandschaftsbeziehungen.
+1.   ein großes Verwandschaftsnetzwerk gibt. Das heißt, Teile der politischen und ökonomischen Elite waren verwandt. Die Familie spielt also eine große Rolle bei der Zugehörikeit zur Elite. Es gibt also eine Kernelite definiert durch Verwandschaftsbeziehungen.
 
-2.  zeigt sich auch in den kleineren Familiennetzwerken, dass Politik und Reichtum verknüpft sind. Es gibt Familien, in denen Reiche und Politiker sind.
+```{=html}
+<!-- -->
+```
+2.  zeigt sich auch in den kleineren Familiennetzwerken, dass Politik und Reichtum verknüpft sind. Es gibt Familien, in denen Reiche und Politiker sind. Siemens als Beispiel
 :::
 
 ## Wahrscheinlichkeit, Politiker zu sein
@@ -337,7 +379,7 @@ tab_model1
 → Für adelige Reiche ist die Chance, Politiker zu sein 5-mal so hoch wie für nicht-adelige Reiche \[H2 ✓\].
 
 ::: notes
-Aber zunächst schauen wir uns die Wahrscheinlichkeit, Politiker zu sein an. Hier zeigt sich, dass für adelige Reiche die Chance, Politiker zu sein 4- 5mal so hoch ist wie für nicht Adelige reiche. In Model 2 kontrolliere ich auf die Provinzen in Preußen.
+Wahrscheinlichkeit, Politiker zu sein an. Hier zeigt sich, dass für adelige Reiche die Chance, Politiker zu sein 4- 5mal so hoch ist wie für nicht Adelige reiche. In Model 2 kontrolliere ich auf die Provinzen in Preußen.
 :::
 
 ## Wahrscheinlichkeit, Politiker zu sein nach Vermögenshöhe
@@ -359,9 +401,9 @@ all_model
 ```
 
 ::: notes
-Wie schaut es nun mit dem Vermögenserhalt über ein Jahrhundert aus? Hier habe ich wieder eine Reihe von logistischen Regressionen gerechnet. Wie man hier sieht, ist sind die Chancen, das Vermögen zu erhalten für Personen, die im Kern Familiennetzwerk sind, fast 4 mal so hoch im Vergleich zu Personen außerhalb des Netzwerkes.
+Chancen, das Vermögen zu erhalten für Personen, die im Kern Familiennetzwerk sind, fast 4 mal so hoch im Vergleich zu Personen außerhalb des Netzwerkes.
 
-Für reiche Politiker ist die Chance über 2 mal so hoch wie für reiche nicht Politiker. Interessanterweise ist dieser Zusammenhang nur sichtbar, wenn man das Herrenhaus betrachtet un dnicht, wenn man Reichstag oder Abgeordnetenhaus betrachtet.
+Für reiche Politiker ist die Chance über 2 mal so hoch wie für reiche nicht Politiker.
 
 -   Die Wahrscheinlichkeit, heute noch superreiche Nachfahren zu haben ist 2 mal so hoch für Individuen, die Anfang des 20. Jahrhunderts reich und politisch aktiv waren als für Individuen, die nur reich waren.
 
@@ -383,12 +425,10 @@ Auch die Wahrscheinlichkeit Nachfahren zu haben, die zu den reichsten Familien 2
 ## Zusammenfassung
 
 -   6% der 1000 reichsten Preußen (1912) haben superreiche Nachfahren
-    -   Familie hat langfristigen Effekt auf heutige Reichtumsstruktur
-
-    -   Soziale Reproduktion auf Gruppenebene (Familie): Identifizierung von Familiencharakteristiken notwendig, die Persistenz erklären (Hällsten und Kolk 2020)
--   Politische Aktivität & familiäres Netzwerk als Erklärungsfaktoren für Reichtumsperpetuation im 20. Jahrhundert [@wagner2020; @toft2022]
--   Herrenhaus entscheidend. Warum? Kern der Elite? Machtelite?
--   Kein Kausalschluss möglich, andere Faktoren könnten den Zusammenhang von Politik und Reichtumerhalt konfundieren
+    -   Persistenz des Reichtums ganz an der Spitze eher gering?
+-   Familiäres Netzwerk als Erklärungsfaktor für Reichtumsperpetuation im 20. Jahrhundert [@wagner2020; @toft2022]
+    -   "Imprinting effect" von familiären Verflechtungen in der politischen und Reichtumselite?
+-   Ausblick: Ausweitung auf andere deutsche Gebiete Anfang des 20. Jahrhunderts? Bayern, Württemberg etc.
 
 \
 
@@ -399,21 +439,23 @@ dariatisch.github.io
 :::
 
 ::: notes
-Dann komme ich zu meiner Zusammenfassung. Es zeigt sich, dass 6% der 1000 reichsten Preußen Nachfahren haben, die heute noch auf der Reichenliste stehen. Ein Hinweis also auf die Persistenz von Reichtum. Ich habe zeigen können, dass die Familie und familiäre Beziehungen Anfang des 20. Jahrhundert eine bedeutende Rolle gespielt haben. Und dass die heutige Reichtums- und Sozialstruktur immer noch von familiären Netzwerken von vor über 100 Jahren geprägt sind. Dies verdeutlicht, dass die Betrachtung von Familien als soziale Gruppen wichtig ist, um soziale Reproduktion zu verstehen. Es stellt sich also die Frage, welche Charakteristiken von Familien notwenig sind, um die Persistenz von Reichtum zu erklären.
+-   6% der 1000 reichsten Preußen haben Nachfahren haben, die heute noch auf der Reichenliste stehen.
 
-In dieser Studie schaue ich mir an, wie die familiäre Beziehungen zur Politik mit dem Erhalt des Familienvermögen zusammenhängen. Es zeigt sich, dass die familiäre Verflechtung zur Politik (insbesondere zum Herrenhaus) ein Erklärungsfaktor für den Erhalt des Reichtums ist. Die Zugehörigkeit zum Adel hingegen hängt nicht signifikant mit dem Vermögenserhalt zusammen.
+-   Familie und familiäre Beziehungen Anfang des 20. Jahrhundert haben bedeutende Rolle gespielt
 
-Ich kann hier natürlich keine Kausalität zeigen, da es viele andere Faktoren gibt, die den Zusammenhang von Verflechtung zu Politik und Reichtumserhalt konfundieren.
+-   Und dass die heutige Reichtums- und Sozialstruktur immer noch von familiären Netzwerken von vor über 100 Jahren geprägt sind. "imprinting effect" von damaliger Elite
 
-Ausblick: Ich möchte meinen Datensatz noch auf ganz Deutschland ausweiten.
+-   Nicht die Zugehörigkeit zum Adel erklärt Vermögenserhalt,
 
 -   Ist dieses Projekt erfolgsversprechend? Ich bin gerade erst am Anfang und an dem Punkt, ob ich Zeit in den weiteren Aufbau der Datenbank stecken soll: Klassifikation des Adels, Religion, regionale Politik, nicht nur Preußen sondern ausweiten auf andere Gebiete. Lohnt sich das?
 
+-   
+
+-   Dies verdeutlicht, dass die Betrachtung von Familien als soziale Gruppen wichtig ist, um soziale Reproduktion zu verstehen. Soziale Reproduktion auf Gruppenebene (Familie): Identifizierung von Familiencharakteristiken notwendig, um Reichtumserhalt zu erklären (Hällsten und Kolk 2020)
+
 -   Datenanalyse mit Bankier sowie Unternehmer
 
--   Familiennetzwerk. Wer Teil der Vermögenselite ist, eher heute noch reich?
-
--   Theorieteil: Wieso sollte politische Aktivität Reichtumserhalt begünstigen?
+-   Theorieteil: Wieso sollte Zugehörigkeit zur Machtelite langfristig Reichtumserhalt begünstigen?
 
 -   "today's inequality regime may have been formed many generations back." (Wagner 2022)
 
