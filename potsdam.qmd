@@ -81,9 +81,9 @@ Aber was sind die sozialstrukturellen Mechanismen des Vermögenserhaltes?
 Mein BEitrag:
 
 1.  inwiefern soziale Mobilität innerhalb der Vermögenselite in Deutschland?
-2.   Persistenz von Reichtum durch sozialstrukturelle Faktoren erklären.
+2.  Persistenz von Reichtum durch sozialstrukturelle Faktoren erklären.
 3.  Familiäre Verflechtungen innerhalb der Vermögens und politischen Elite
-4.   Indem ich mir die Verbindung von Vermögenselite und politischer Elite anschaue, trage ich auch zu einem wichtigsten Thema der Elitenliteratur, nämlich ob es eine homogene Elite gab.
+4.  Indem ich mir die Verbindung von Vermögenselite und politischer Elite anschaue, trage ich auch zu einem wichtigsten Thema der Elitenliteratur, nämlich ob es eine homogene Elite gab.
 5.  shifting the perspective to kinship structures as social groups, where social reproduction works at the group level, appears to be a fruitful endeavor, and it should be a future aim to identify more kin group-level characteristics that explain persistence. (Hällsten und Kolk 2020)
 :::
 
@@ -111,12 +111,12 @@ Daher 2 Hypothesen.
 2.  adelige Reiche größere WKT haben, Politiker zu sein als nicht adelige Reiche.
     -   Im wilhelminischen Deutschland hatte der Adel eine gesellschaftliche Leitfunktion, die sich auch darin ausdrückte, dass der Adel Politik, Bürokratie und Militär dominierte. Im Preußischen Herrenhaus wurden die Mitglieder vom König = Kaiser (Wilhelm II.) ernannt, das Herrenhaus war sehr deutlich vom Adel dominiert.
 
-\[
 
 1.  Beispiel 1908: 4 % der Wähler der ersten Klasse bestimmen genauso viele Wahlmänner wie 85 % der Wähler der dritten Klasse
 2.  Einteilung der Wähler nach ihrem Anteil am Steueraufkommen in drei Klassen, jede Klasse wählt jedoch die gleiche Anzahl an Wahlmännern
 3.  Keine geheime Wahl: Abhängigkeitsverhältnisse konnten stark ausgenutzt werden
 :::
+
 
 ## Hypothesen: Vermögenserhalt
 
@@ -159,13 +159,19 @@ Argument: zum Erhalt der Position an der Spitze der Vermögensverteilung sind st
 
 -   Worin besteht der imprinting Effekt? Name?
 
--    Höhe des Reichtums mit de Chancen des Reichtumserhalt positiv zusammenhängt. Mills argumentiert in seinem Buch "The power elite", dass Reichtum einen Akkumulationsvorteil mit sich bringt. Je strategischer die ökonomische Position ist und desto reicher ein Mensch, desto leichter ist es, noch mehr Vermögen zu akkumulieren: "The more he has, the greater his credit"
+-   Höhe des Reichtums mit de Chancen des Reichtumserhalt positiv zusammenhängt. Charles Wright Mills argumentiert in seinem Buch "The power elite", dass Reichtum einen Akkumulationsvorteil mit sich bringt. Je strategischer die ökonomische Position ist und desto reicher ein Mensch, desto leichter ist es, noch mehr Vermögen zu akkumulieren: "The more he has, the greater his credit"
 :::
 
-## Datengrundlage {.larger}
 
+## Datengrundlage I {.scrollable}
 "Wer für den Fortschritt der Wissenschaft ist, der muß auch für die Aufklärung auf dem Gebiete des Vermögens und Einkommens sein. \[...\] Wer sich bemüht, die tote Statistik des Vermögens und Einkommens zu beleben, und das tote Zahlengerippe mit Namen auszufüllen, der leistet der Wissenschaft einen Dienst." [@martin1912]
 
+::: columns
+::: {.column width="30%"}
+![](images/martin.png){.absolute top="250" left="0" width="270"}
+:::
+
+::: {.column width="70%"}
 -   Jahrbuch des Vermögens und Einkommens der Millionäre [@martin1912]
 
 -   Datenbank der Reichstagsabgeordneten (1867 - 1938) [^1]
@@ -175,12 +181,17 @@ Argument: zum Erhalt der Position an der Spitze der Vermögensverteilung sind st
 -   Liste der Mitglieder des preußischen Abgeordnetenhauses [@mann1998]
 
 -   Heutige Manager Magazin Listen (Bornefeld 2019)
+:::
+:::
+→ Verknüpfung über GND und Wikidata ID, sowie händisch
 
 [^1]: https://www.reichstag-abgeordnetendatenbank.de/
 
 [^2]: https://de.wikipedia.org/wiki/Liste_der_Mitglieder_des_Preu%C3%9Fischen_Herrenhauses
 
-→ Verknüpfung über GND und Wikidata ID, sowie händisch
+
+
+
 
 ::: notes
 Als Datengrundlage dient mir das Jahrbuch des Vermögens und Einkommens der Milliönäre von Rudolf Martin ( Preußen).
@@ -193,6 +204,13 @@ Als Datengrundlage dient mir das Jahrbuch des Vermögens und Einkommens der Mill
 
 -   Wikidata erklären
 :::
+
+## Datengrundlage II
+
+![](images/wikidata_bertha_bild.png){.absolute top="100" left="0" width="70%"}
+
+![](images/wikidata_bertha.png){.absolute top="50" left="350" width="50%"}
+
 
 ## Daten und Methoden
 
@@ -360,11 +378,10 @@ all_all_widget
 ::: notes
 Um die familiäre Verflechtung von Politik und Reichtum zu zeigen, habe ich eine Netzwerkgraphik mitgebracht. Jeder Punkt ist ein Individuum. Blaue Punkte sind Politiker. Gelbe Punkte sind Menschen auf der Reichenliste 1912. Rote Punkte sind Personen, die sowohl auf der Reichenliste stehen als auch Politiker sind.
 
-1.   ein großes Verwandschaftsnetzwerk gibt. Das heißt, Teile der politischen und ökonomischen Elite waren verwandt. Die Familie spielt also eine große Rolle bei der Zugehörikeit zur Elite. Es gibt also eine Kernelite definiert durch Verwandschaftsbeziehungen.
+1.  ein großes Verwandschaftsnetzwerk gibt. Das heißt, Teile der politischen und ökonomischen Elite waren verwandt. Die Familie spielt also eine große Rolle bei der Zugehörikeit zur Elite. Es gibt also eine Kernelite definiert durch Verwandschaftsbeziehungen.
 
-```{=html}
 <!-- -->
-```
+
 2.  zeigt sich auch in den kleineren Familiennetzwerken, dass Politik und Reichtum verknüpft sind. Es gibt Familien, in denen Reiche und Politiker sind. Siemens als Beispiel
 :::
 
